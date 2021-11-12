@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ceciliaamoako
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning how to build apps
-- 💞️ I’m looking to collaborate on projects
+- 📲 I’m currently learning how to build apps
+- 👩🏽‍💻 I’m looking to collaborate on projects
 - 📫 How to reach me amoakocecilia13@gmail.com
 
 <!---
